@@ -10,7 +10,7 @@ This script is made to make it easier for users so that they can easily manage N
 
 ---
 To use this script you just execute the below command:
-sh allions.sh
+sh nagiosinstaller.sh
 
 
 
